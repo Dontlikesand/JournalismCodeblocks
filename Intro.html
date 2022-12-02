@@ -1,12 +1,15 @@
-<html>
+<iframe style="height:100%; width:100%;"></iframe>
+<script>
+    document.querySelector('iframe')
+        .contentDocument.write(`<html>
 
 <head>
-
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 </head>
 
 
 
-<body class="c30 doc-content">
+<body class="c30 doc-content" style="display:flex; flex-direction: column; min-width: 440px;">
     <style type="text/css">
         @import url('https://themes.googleusercontent.com/fonts/css?kit=cGvuclDC_Z1vE_cnVEU6Ae_NZQ7StBcqH_vXVqoPMX0');
 
@@ -258,7 +261,8 @@
         .c30 {
             background-color: #ffffff;
             max-width: 468pt;
-            padding: 72pt 72pt 72pt 72pt
+            padding-top: 15pt;
+        padding-bottom: 72pt;
         }
 
         .c11 {
@@ -697,4 +701,5 @@
 
 </body>
 
-</html>
+</html>`)
+</script>
