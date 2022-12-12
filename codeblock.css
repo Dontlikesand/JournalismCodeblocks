@@ -1,9 +1,16 @@
+@import url('https://themes.googleusercontent.com/fonts/css?kit=cGvuclDC_Z1vE_cnVEU6Ae_NZQ7StBcqH_vXVqoPMX0');
+
+ol {
+    margin: 0;
+    padding: 0
+}
+
 table td,
 table th {
     padding: 0
 }
 
-.c0 {
+.c4 {
     border-right-style: solid;
     padding: 5pt 5pt 5pt 5pt;
     border-bottom-color: #000000;
@@ -22,6 +29,16 @@ table th {
     border-bottom-style: solid
 }
 
+.c17 {
+    color: #e69138;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
 .c5 {
     color: #000000;
     font-weight: 400;
@@ -32,7 +49,7 @@ table th {
     font-style: normal
 }
 
-.c6 {
+.c11 {
     color: #000000;
     font-weight: 400;
     text-decoration: none;
@@ -42,15 +59,23 @@ table th {
     font-style: normal
 }
 
-.c7 {
+.c12 {
     background-color: #333333;
     font-size: 8pt;
     font-family: "Consolas";
-    color: #62c8f3;
-    font-weight: 700
+    color: #fcc28c;
+    font-weight: 400
 }
 
-.c4 {
+.c31 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #e69138;
+    font-weight: 400
+}
+
+.c1 {
     background-color: #333333;
     font-size: 8pt;
     font-family: "Consolas";
@@ -58,7 +83,7 @@ table th {
     font-weight: 400
 }
 
-.c3 {
+.c7 {
     background-color: #333333;
     font-size: 8pt;
     font-family: "Consolas";
@@ -66,92 +91,305 @@ table th {
     font-weight: 400
 }
 
+.c10 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #ffffaa;
+    font-weight: 400
+}
+
 .c8 {
-    border-spacing: 0;
-    border-collapse: collapse;
-    margin-right: auto
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #a2fca2;
+    font-weight: 400
+}
+
+.c18 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #ade5fc;
+    font-weight: 400
+}
+
+.c29 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #fc9b9b;
+    font-weight: 400
+}
+
+.c30 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #c6b4f0;
+    font-weight: 400
 }
 
 .c2 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #62c8f3;
+    font-weight: 700
+}
+
+.c27 {
+    background-color: #333333;
+    font-size: 8pt;
+    font-family: "Consolas";
+    color: #d36363;
+    font-weight: 400
+}
+
+.c13 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #62c8f3;
+    font-weight: 400
+}
+
+.c15 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #ffffff;
+    font-weight: 400
+}
+
+.c20 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #4a86e8;
+    font-weight: 400
+}
+
+.c3 {
     padding-top: 0pt;
     padding-bottom: 0pt;
     line-height: 1.15;
     text-align: left
 }
 
-.c1 {
+.c28 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #a2fca2;
+    font-weight: 400
+}
+
+.c16 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #569cd6;
+    font-weight: 400
+}
+
+.c26 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #62c8f3;
+    font-weight: 700
+}
+
+.c25 {
+    color: #a2fca2;
+    font-weight: 400;
+    font-size: 8pt;
+    font-family: "Arial"
+}
+
+.c35 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #e69138;
+    font-weight: 400
+}
+
+.c19 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #ffffaa;
+    font-weight: 400
+}
+
+.c22 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #fcc28c;
+    font-weight: 400
+}
+
+.c6 {
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-right: auto
+}
+
+.c21 {
+    background-color: #333333;
+    font-family: "Consolas";
+    color: #c9daf8;
+    font-weight: 400
+}
+
+.c34 {
+    color: #a2fca2;
+    font-weight: 400;
+    font-family: "Courier New"
+}
+
+.c32 {
     background-color: #ffffff;
     max-width: 468pt;
     padding: 72pt 72pt 72pt 72pt
 }
 
-.c9 {
-    orphans: 2;
-    widows: 2;
-    height: 11pt
+.c23 {
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
 }
 
-.c11 {
+.c14 {
+    orphans: 2;
+    widows: 2
+}
+
+.c24 {
+    font-size: 9pt
+}
+
+.c0 {
     height: 0pt
 }
 
-.c10 {
+.c33 {
+    font-size: 8pt
+}
+
+.c9 {
     height: 11pt
 }
 
-/* cyrillic-ext */
-@font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2) format('woff2');
-    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-  }
-  /* cyrillic */
-  @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2) format('woff2');
-    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-  }
-  /* greek-ext */
-  @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2) format('woff2');
-    unicode-range: U+1F00-1FFF;
-  }
-  /* greek */
-  @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2) format('woff2');
-    unicode-range: U+0370-03FF;
-  }
-  /* vietnamese */
-  @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2) format('woff2');
-    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
-  }
-  /* latin-ext */
-  @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2) format('woff2');
-    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-  }
-  /* latin */
-  @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-  }
+.title {
+    padding-top: 0pt;
+    color: #000000;
+    font-size: 26pt;
+    padding-bottom: 3pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.subtitle {
+    padding-top: 0pt;
+    color: #666666;
+    font-size: 15pt;
+    padding-bottom: 16pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+li {
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Arial"
+}
+
+p {
+    margin: 0;
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Arial"
+}
+
+h1 {
+    padding-top: 20pt;
+    color: #000000;
+    font-size: 20pt;
+    padding-bottom: 6pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+h2 {
+    padding-top: 18pt;
+    color: #000000;
+    font-size: 16pt;
+    padding-bottom: 6pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+h3 {
+    padding-top: 16pt;
+    color: #434343;
+    font-size: 14pt;
+    padding-bottom: 4pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+h4 {
+    padding-top: 14pt;
+    color: #666666;
+    font-size: 12pt;
+    padding-bottom: 4pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+h5 {
+    padding-top: 12pt;
+    color: #666666;
+    font-size: 11pt;
+    padding-bottom: 4pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+h6 {
+    padding-top: 12pt;
+    color: #666666;
+    font-size: 11pt;
+    padding-bottom: 4pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    font-style: italic;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
